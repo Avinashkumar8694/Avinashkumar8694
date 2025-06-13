@@ -55,7 +55,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+<!-- ### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashkumar8694&theme=tokyonight&hide_border=true" />
@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avinashkumar8694&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkumar8694&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
@@ -74,9 +74,9 @@
 | [**Zero Ecosystem**](https://github.com/Avinashkumar8694/zero-ecosystem) | Lit-based web component system with a drag-and-drop studio and CLI generator. | `Lit`, `TypeScript`, `Custom Elements` |
 | [**m-wire**](https://github.com/Avinashkumar8694/m-wire) | Mock API generator to simulate API responses in dev environments. | `Node.js`, `Express` |
 | [**curlspy CLI**](https://github.com/Avinashkumar8694/curlspy-cli) | Capture browser cURL from Puppeteer sessions and export to Postman. | `Node.js`, `Puppeteer`, `CLI` |
-| [**zero-mdm-service**](https://github.com/Avinashkumar8694/zero-mdm-service) |	Microservice for master data management, handling centralized configuration and data entities. |	Node.js, Express, MongoDB |
+<!-- | [**zero-mdm-service**](https://github.com/Avinashkumar8694/zero-mdm-service) |	Microservice for master data management, handling centralized configuration and data entities. |	Node.js, Express, MongoDB |
 | [**zero-rules-manager**](https://github.com/Avinashkumar8694/zero-rules-manager) |	Rule engine manager for defining and executing dynamic business rules across applications.	| Node.js, TypeScript, Rule Engine |
----
+--- -->
 
 ### 📈 Visitors
 
