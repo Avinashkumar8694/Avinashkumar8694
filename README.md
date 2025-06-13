@@ -13,12 +13,12 @@
 - ⚙️ Specialized in **Full-Stack Development**, **Microservices**, **Low-code Platforms**
 - 🌐 Experienced with **Angular**, **Node.js**, **Kubernetes**, **AWS**, **JBPM**, **Strapi**, **PostgreSQL**
 - 💡 Passionate about building developer tools, component systems, and automating engineering workflows
-- 🏆 Awarded for outstanding performance in client-facing and architectural leadership roles
-- 📈 **Key Contributions:**
-  - Developed **Zero MDM Service**, a microservice for managing master data, centralized configurations, and data entities for scalable business solutions.
-  - Built **Zeo Rules Manager**, a dynamic rule engine manager for executing business logic across applications with real-time adaptability.
-  - Currently building **Zero Ecosystem**, a Lit-based web component system that allows for modular and reusable components with drag-and-drop functionality and a CLI generator. This system aims to streamline front-end development and improve UI scalability, enabling developers to quickly create custom component libraries with minimal effort.
-- 📫 Reach me at: **avinash.kumar8694@gmail.com**
+<!-- - 🏆 Awarded for outstanding performance in client-facing and architectural leadership roles -->
+<!-- - 📈 **Key Contributions:** -->
+  <!-- - Developed **Zero MDM Service**, a microservice for managing master data, centralized configurations, and data entities for scalable business solutions.
+  - Built **Zeo Rules Manager**, a dynamic rule engine manager for executing business logic across applications with real-time adaptability. -->
+  <!-- - Currently building **Zero Ecosystem**, a Lit-based web component system that allows for modular and reusable components with drag-and-drop functionality and a CLI generator. This system aims to streamline front-end development and improve UI scalability, enabling developers to quickly create custom component libraries with minimal effort.
+- 📫 Reach me at: **avinash.kumar8694@gmail.com** -->
 
 ---
 
