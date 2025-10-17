@@ -13,11 +13,13 @@
 - ⚙️ Specialized in **Full-Stack Development**, **Microservices**, **Low-code Platforms**
 - 🌐 Experienced with **Angular**, **Node.js**, **Kubernetes**, **AWS**, **JBPM**, **Strapi**, **PostgreSQL**
 - 💡 Passionate about building developer tools, component systems, and automating engineering workflows
-<!-- - 🏆 Awarded for outstanding performance in client-facing and architectural leadership roles -->
-<!-- - 📈 **Key Contributions:** -->
-  <!-- - Developed **Zero MDM Service**, a microservice for managing master data, centralized configurations, and data entities for scalable business solutions.
-  - Built **Zeo Rules Manager**, a dynamic rule engine manager for executing business logic across applications with real-time adaptability. -->
-  <!-- - Currently building **Zero Ecosystem**, a Lit-based web component system that allows for modular and reusable components with drag-and-drop functionality and a CLI generator. This system aims to streamline front-end development and improve UI scalability, enabling developers to quickly create custom component libraries with minimal effort.
+- 🏆 Performance Award for winning the internal engineering competition at Neutrinos by designing a
+smart and efficient cache management solution.
+- 🏆 Awarded for outstanding performance in client-facing and architectural leadership roles
+- 📈 **Key Contributions:**
+  - Developed **Zero MDM Service**, a microservice for managing master data, centralized configurations, and data entities for scalable business solutions.
+  - Built **Zeo Rules Manager**, a dynamic rule engine manager for executing business logic across applications with real-time adaptability.
+ - Currently building **Zero Ecosystem**, a Lit-based web component system that allows for modular and reusable components with drag-and-drop functionality and a CLI generator. This system aims to streamline front-end development and improve UI scalability, enabling developers to quickly create custom component libraries with minimal effort.
 - 📫 Reach me at: **avinash.kumar8694@gmail.com** -->
 
 ---
@@ -55,7 +57,7 @@
 
 ---
 
-<!-- ### 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashkumar8694&theme=tokyonight&hide_border=true" />
@@ -63,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avinashkumar8694&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkumar8694&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
+</p>
 
 ---
 
